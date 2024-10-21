@@ -88,7 +88,7 @@ This project aims to classify images into bi-level categories, where each image 
 - IAB6-8 - Special Needs Kids
 - IAB6-9 - Eldercare
 7. IAB7 - Health & Fitness
-IAB7-1 - Exercise / Weight Loss 2
+- IAB7-1 - Exercise / Weight Loss 2
 IAB7-2 - ADD
 IAB7-3 - AIDS / HIV
 IAB7-4 - Allergies
@@ -135,7 +135,7 @@ IAB7-44 - Weight Loss (see: IAB7-1) 2
 IAB7-45 - Women’s Health
 - IAB7-WS1 - Abortion 4
 8. IAB8 - Food & Drink
-IAB8-1 - American Cuisine
+- IAB8-1 - American Cuisine
 IAB8-2 - Barbecues & Grilling
 IAB8-3 - Cajun / Creole
 IAB8-4 - Chinese Cuisine
@@ -205,7 +205,7 @@ IAB10-8 - Landscaping
 - IAB11-5 - Commentary
 12. IAB12 - News / Weather / Information 3
 13. IAB13 - Personal Finance
-IAB13-1 - Beginning Investing
+- IAB13-1 - Beginning Investing
 IAB13-2 - Credit / Debit & Loans
 IAB13-3 - Financial News
 IAB13-4 - Financial Planning
@@ -216,18 +216,18 @@ IAB13-8 - Mutual Funds / ETFs 1
 IAB13-9 - Options
 IAB13-10 - Retirement Planning
 IAB13-11 - Stocks
-IAB13-12 - Tax Planning / Accounting 1
+- IAB13-12 - Tax Planning / Accounting 1
 14. IAB14 - Society
-IAB14-1 - Dating / Personals 1
+- IAB14-1 - Dating / Personals 1
 IAB14-2 - Divorce Support
 IAB14-3 - LGBTQ+ 1
 IAB14-4 - Marriage
 IAB14-5 - Senior Living
 IAB14-6 - Teens
 IAB14-7 - Weddings
-IAB14-8 - Ethnic Specific
+- IAB14-8 - Ethnic Specific
 15. IAB15 - Science
-IAB15-1 - Astrology
+- IAB15-1 - Astrology
 IAB15-2 - Biology
 IAB15-3 - Chemistry
 IAB15-4 - Geology
@@ -236,7 +236,7 @@ IAB15-6 - Physics
 IAB15-7 - Space / Astronomy
 IAB15-8 - Geography
 IAB15-9 - Botany
-IAB15-10 - Weather
+- IAB15-10 - Weather
 16. IAB16 - Pets
 - IAB16-1 - Aquariums
 - IAB16-2 - Birds
@@ -246,7 +246,7 @@ IAB15-10 - Weather
 - IAB16-6 - Reptiles
 - IAB16-7 - Veterinary Medicine
 17. IAB17 - Sports
-IAB17-1 - Auto Racing
+- IAB17-1 - Auto Racing
 IAB17-2 - Baseball / Softball 1
 IAB17-3 - Bicycling
 IAB17-4 - Bodybuilding
@@ -288,7 +288,7 @@ IAB17-39 - Table Tennis / Ping-Pong
 IAB17-40 - Tennis
 IAB17-41 - Volleyball
 IAB17-43 - Waterski / Wakeboard
-IAB17-44 - World Football / Soccer 1
+- IAB17-44 - World Football / Soccer 1
 18. IAB18 - Style & Fashion
 - IAB18-1 - Beauty
 - IAB18-2 - Body Art
@@ -297,7 +297,7 @@ IAB17-44 - World Football / Soccer 1
 - IAB18-5 - Clothing
 - IAB18-6 - Accessories
 19. IAB19 - Technology & Computing
-IAB19-1 - 3-D Graphics
+- IAB19-1 - 3-D Graphics
 IAB19-2 - Animation
 IAB19-3 - Antivirus Software
 IAB19-4 - C / C++
@@ -332,9 +332,9 @@ IAB19-32 - Visual Basic
 IAB19-33 - Web Clip Art
 IAB19-34 - Web Design / HTML
 IAB19-35 - Web Search
-IAB19-36 - Windows
+- IAB19-36 - Windows
 20. IAB20 - Travel
-IAB20-1 - Adventure Travel
+- IAB20-1 - Adventure Travel
 IAB20-2 - Africa
 IAB20-3 - Air Travel
 IAB20-4 - Australia & New Zealand
@@ -360,7 +360,7 @@ IAB20-23 - South America
 IAB20-24 - Spas
 IAB20-25 - Theme Parks
 IAB20-26 - Traveling with Kids
-IAB20-27 - United Kingdom
+- IAB20-27 - United Kingdom
 21. IAB21 - Real Estate
 - IAB21-1 - Apartments
 - IAB21-2 - Architects
@@ -371,7 +371,7 @@ IAB20-27 - United Kingdom
 - IAB22-3 - Comparison
 - IAB22-4 - Engines
 23. IAB23 - Religion & Spirituality
-IAB23-1 - Alternative Religions
+- IAB23-1 - Alternative Religions
 IAB23-2 - Atheism / Agnosticism
 IAB23-3 - Buddhism
 IAB23-4 - Catholicism
@@ -380,7 +380,7 @@ IAB23-6 - Hinduism
 IAB23-7 - Islam
 IAB23-8 - Judaism
 IAB23-9 - Latter-Day Saints
-IAB23-10 - Pagan / Wiccan
+- IAB23-10 - Pagan / Wiccan
 24. IAB24 - Uncategorized
 25. IAB25 - Non-Standard Content
 - IAB25-1 - Unmoderated UGC / Message Boards 
