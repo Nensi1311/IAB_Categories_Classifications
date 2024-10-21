@@ -13,80 +13,80 @@ This project aims to classify images into bi-level categories, where each image 
 - IAB1-6 - Music & Audio 1
 - IAB1-7 - Television & Video 1
 2. IAB2 - Automotive
-IAB2-1 - Auto Parts
-IAB2-2 - Auto Repair
-IAB2-3 - Buying/Selling Cars
-IAB2-4 - Car Culture
-IAB2-5 - Certified Pre-Owned
-IAB2-6 - Convertible
-IAB2-7 - Coupe
-IAB2-8 - Crossover
-IAB2-9 - Diesel
-IAB2-10 - Electric Vehicle
-IAB2-11 - Hatchback
-IAB2-12 - Hybrid
-IAB2-13 - Luxury
-IAB2-14 - Minivan
-IAB2-15 - Motorcycles
-IAB2-16 - Off-Road Vehicles
-IAB2-17 - Performance Vehicles
-IAB2-18 - Pickup
-IAB2-19 - Road-Side Assistance
-IAB2-20 - Sedan
-IAB2-21 - Trucks & Accessories
-IAB2-22 - Vintage Cars
-IAB2-23 - Wagon
+- IAB2-1 - Auto Parts
+- IAB2-2 - Auto Repair
+- IAB2-3 - Buying/Selling Cars
+- IAB2-4 - Car Culture
+- IAB2-5 - Certified Pre-Owned
+- IAB2-6 - Convertible
+- IAB2-7 - Coupe
+- IAB2-8 - Crossover
+- IAB2-9 - Diesel
+- IAB2-10 - Electric Vehicle
+- IAB2-11 - Hatchback
+- IAB2-12 - Hybrid
+- IAB2-13 - Luxury
+- IAB2-14 - Minivan
+- IAB2-15 - Motorcycles
+- IAB2-16 - Off-Road Vehicles
+- IAB2-17 - Performance Vehicles
+- IAB2-18 - Pickup
+- IAB2-19 - Road-Side Assistance
+- IAB2-20 - Sedan
+- IAB2-21 - Trucks & Accessories
+- IAB2-22 - Vintage Cars
+- IAB2-23 - Wagon
 3. IAB3 - Business
-IAB3-1 - Advertising
-IAB3-2 - Agriculture
-IAB3-3 - Biotech/Biomedical
-IAB3-4 - Business Software
-IAB3-5 - Construction
-IAB3-6 - Forestry
-IAB3-7 - Government
-IAB3-8 - Green Solutions
-IAB3-9 - Human Resources
-IAB3-10 - Logistics
-IAB3-11 - Marketing
-IAB3-12 - Metals
+- IAB3-1 - Advertising
+- IAB3-2 - Agriculture
+- IAB3-3 - Biotech/Biomedical
+- IAB3-4 - Business Software
+- IAB3-5 - Construction
+- IAB3-6 - Forestry
+- IAB3-7 - Government
+- IAB3-8 - Green Solutions
+- IAB3-9 - Human Resources
+- IAB3-10 - Logistics
+- IAB3-11 - Marketing
+- IAB3-12 - Metals
 4. IAB4 - Careers
-IAB4-1 - Career Planning
-IAB4-2 - College
-IAB4-3 - Financial Aid
-IAB4-4 - Job Fairs
-IAB4-5 - Job Search
-IAB4-6 - Resume Writing/Advice
-IAB4-7 - Nursing
-IAB4-8 - Scholarships
-IAB4-9 - Telecommuting
-IAB4-10 - Military
-IAB4-11 - Career Advice
+- IAB4-1 - Career Planning
+- IAB4-2 - College
+- IAB4-3 - Financial Aid
+- IAB4-4 - Job Fairs
+- IAB4-5 - Job Search
+- IAB4-6 - Resume Writing/Advice
+- IAB4-7 - Nursing
+- IAB4-8 - Scholarships
+- IAB4-9 - Telecommuting
+- IAB4-10 - Military
+- IAB4-11 - Career Advice
 5. IAB5 - Education
-IAB5-1 - 7-12 Education
-IAB5-2 - Adult Education
-IAB5-3 - Art History
-IAB5-4 - College Administration
-IAB5-5 - College Life
-IAB5-6 - Distance Learning
-IAB5-7 - English as a 2nd Language
-IAB5-8 - Language Learning
-IAB5-9 - College / Graduate School 1
-IAB5-10 - Homeschooling
-IAB5-11 - Homework/Study Tips
-IAB5-12 - K-6 Education 1
-IAB5-13 - Private School
-IAB5-14 - Special Education
-IAB5-15 - Studying Business
+- IAB5-1 - 7-12 Education
+- IAB5-2 - Adult Education
+- IAB5-3 - Art History
+- IAB5-4 - College Administration
+- IAB5-5 - College Life
+- IAB5-6 - Distance Learning
+- IAB5-7 - English as a 2nd Language
+- IAB5-8 - Language Learning
+- IAB5-9 - College / Graduate School 1
+- IAB5-10 - Homeschooling
+- IAB5-11 - Homework/Study Tips
+- IAB5-12 - K-6 Education 1
+- IAB5-13 - Private School
+- IAB5-14 - Special Education
+- IAB5-15 - Studying Business
 6. IAB6 - Family & Parenting
-IAB6-1 - Adoption
-IAB6-2 - Babies & Toddlers
-IAB6-3 - Daycare/Pre School
-IAB6-4 - Family Internet
-IAB6-5 - Parenting - K-6 Kids
-IAB6-6 - Parenting teens
-IAB6-7 - Pregnancy
-IAB6-8 - Special Needs Kids
-IAB6-9 - Eldercare
+- IAB6-1 - Adoption
+- IAB6-2 - Babies & Toddlers
+- IAB6-3 - Daycare/Pre School
+- IAB6-4 - Family Internet
+- IAB6-5 - Parenting - K-6 Kids
+- IAB6-6 - Parenting teens
+- IAB6-7 - Pregnancy
+- IAB6-8 - Special Needs Kids
+- IAB6-9 - Eldercare
 7. IAB7 - Health & Fitness
 IAB7-1 - Exercise / Weight Loss 2
 IAB7-2 - ADD
