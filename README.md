@@ -5,13 +5,13 @@ This project aims to classify images into bi-level categories, where each image 
 
 ## IAB Categories
 1. IAB1 - Arts & Entertainment
--IAB1-1 - Books & Literature
--IAB1-2 - Celebrity Fan/Gossip
--IAB1-3 - Fine Art
--IAB1-4 - Humor
--IAB1-5 - Movies
--IAB1-6 - Music & Audio 1
--IAB1-7 - Television & Video 1
+- IAB1-1 - Books & Literature
+- IAB1-2 - Celebrity Fan/Gossip
+- IAB1-3 - Fine Art
+- IAB1-4 - Humor
+- IAB1-5 - Movies
+- IAB1-6 - Music & Audio 1
+- IAB1-7 - Television & Video 1
 IAB2 - Automotive
 IAB2-1 - Auto Parts
 IAB2-2 - Auto Repair
