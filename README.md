@@ -12,7 +12,7 @@ This project aims to classify images into bi-level categories, where each image 
 - IAB1-5 - Movies
 - IAB1-6 - Music & Audio 1
 - IAB1-7 - Television & Video 1
-IAB2 - Automotive
+2. IAB2 - Automotive
 IAB2-1 - Auto Parts
 IAB2-2 - Auto Repair
 IAB2-3 - Buying/Selling Cars
@@ -36,7 +36,7 @@ IAB2-20 - Sedan
 IAB2-21 - Trucks & Accessories
 IAB2-22 - Vintage Cars
 IAB2-23 - Wagon
-IAB3 - Business
+3. IAB3 - Business
 IAB3-1 - Advertising
 IAB3-2 - Agriculture
 IAB3-3 - Biotech/Biomedical
@@ -49,7 +49,7 @@ IAB3-9 - Human Resources
 IAB3-10 - Logistics
 IAB3-11 - Marketing
 IAB3-12 - Metals
-IAB4 - Careers
+4. IAB4 - Careers
 IAB4-1 - Career Planning
 IAB4-2 - College
 IAB4-3 - Financial Aid
@@ -61,7 +61,7 @@ IAB4-8 - Scholarships
 IAB4-9 - Telecommuting
 IAB4-10 - Military
 IAB4-11 - Career Advice
-IAB5 - Education
+5. IAB5 - Education
 IAB5-1 - 7-12 Education
 IAB5-2 - Adult Education
 IAB5-3 - Art History
@@ -77,7 +77,7 @@ IAB5-12 - K-6 Education 1
 IAB5-13 - Private School
 IAB5-14 - Special Education
 IAB5-15 - Studying Business
-IAB6 - Family & Parenting
+6. IAB6 - Family & Parenting
 IAB6-1 - Adoption
 IAB6-2 - Babies & Toddlers
 IAB6-3 - Daycare/Pre School
@@ -87,7 +87,7 @@ IAB6-6 - Parenting teens
 IAB6-7 - Pregnancy
 IAB6-8 - Special Needs Kids
 IAB6-9 - Eldercare
-IAB7 - Health & Fitness
+7. IAB7 - Health & Fitness
 IAB7-1 - Exercise / Weight Loss 2
 IAB7-2 - ADD
 IAB7-3 - AIDS / HIV
@@ -133,8 +133,8 @@ IAB7-42 - Substance Abuse
 IAB7-43 - Thyroid Disease / Endocrinology 1
 IAB7-44 - Weight Loss (see: IAB7-1) 2
 IAB7-45 - Women’s Health
-IAB7-WS1 - Abortion 4
-IAB8 - Food & Drink
+- IAB7-WS1 - Abortion 4
+8. IAB8 - Food & Drink
 IAB8-1 - American Cuisine
 IAB8-2 - Barbecues & Grilling
 IAB8-3 - Cajun / Creole
@@ -152,8 +152,8 @@ IAB8-14 - Japanese Cuisine
 IAB8-15 - Mexican Cuisine
 IAB8-16 - Vegan
 IAB8-17 - Vegetarian
-IAB8-18 - Wine
-IAB9 - Hobbies & Interests
+- IAB8-18 - Wine
+9. IAB9 - Hobbies & Interests
 IAB9-1 - Art / Technology
 IAB9-2 - Arts & Crafts
 IAB9-3 - Beadwork
@@ -187,7 +187,7 @@ IAB9-30 - Video & Computer Games
 IAB9-31 - Woodworking
 IAB9-WS1 - Gambling 4
 IAB9-WS2 - Weapons 4
-IAB10 - Home & Garden
+10. IAB10 - Home & Garden
 IAB10-1 - Appliances
 IAB10-2 - Entertaining
 IAB10-3 - Environmental Safety
@@ -197,14 +197,14 @@ IAB10-6 - Home Theater
 IAB10-7 - Interior Decorating
 IAB10-8 - Landscaping
 IAB10-9 - Remodeling & Construction
-IAB11 - Law, Government, & Politics
+11. IAB11 - Law, Government, & Politics
 IAB11-1 - Immigration
 IAB11-2 - Legal Issues
 IAB11-3 - Government Resources 1
 IAB11-4 - Politics
 IAB11-5 - Commentary
-IAB12 - News / Weather / Information 3
-IAB13 - Personal Finance
+12. IAB12 - News / Weather / Information 3
+13. IAB13 - Personal Finance
 IAB13-1 - Beginning Investing
 IAB13-2 - Credit / Debit & Loans
 IAB13-3 - Financial News
@@ -217,7 +217,7 @@ IAB13-9 - Options
 IAB13-10 - Retirement Planning
 IAB13-11 - Stocks
 IAB13-12 - Tax Planning / Accounting 1
-IAB14 - Society
+14. IAB14 - Society
 IAB14-1 - Dating / Personals 1
 IAB14-2 - Divorce Support
 IAB14-3 - LGBTQ+ 1
@@ -227,7 +227,7 @@ IAB14-6 - Teens
 IAB14-7 - Weddings
 IAB14-8 - Ethnic Specific
 IAB14-WS1 - Social Networking 4
-IAB15 - Science
+15. IAB15 - Science
 IAB15-1 - Astrology
 IAB15-2 - Biology
 IAB15-3 - Chemistry
@@ -238,7 +238,7 @@ IAB15-7 - Space / Astronomy
 IAB15-8 - Geography
 IAB15-9 - Botany
 IAB15-10 - Weather
-IAB16 - Pets
+16. IAB16 - Pets
 IAB16-1 - Aquariums
 IAB16-2 - Birds
 IAB16-3 - Cats
@@ -246,7 +246,7 @@ IAB16-4 - Dogs
 IAB16-5 - Large Animals
 IAB16-6 - Reptiles
 IAB16-7 - Veterinary Medicine
-IAB17 - Sports
+17. IAB17 - Sports
 IAB17-1 - Auto Racing
 IAB17-2 - Baseball / Softball 1
 IAB17-3 - Bicycling
@@ -290,14 +290,14 @@ IAB17-40 - Tennis
 IAB17-41 - Volleyball
 IAB17-43 - Waterski / Wakeboard
 IAB17-44 - World Football / Soccer 1
-IAB18 - Style & Fashion
+18. IAB18 - Style & Fashion
 IAB18-1 - Beauty
 IAB18-2 - Body Art
 IAB18-3 - Fashion
 IAB18-4 - Jewelry
 IAB18-5 - Clothing
 IAB18-6 - Accessories
-IAB19 - Technology & Computing
+19. IAB19 - Technology & Computing
 IAB19-1 - 3-D Graphics
 IAB19-2 - Animation
 IAB19-3 - Antivirus Software
@@ -338,7 +338,7 @@ IAB19-WS1 - Hacking / Cracking 4
 IAB19-WS2 - VPNs / Proxies & Filter Avoidance 4
 IAB19-WS3 - Language Translation 4
 IAB19-WS4 - File Sharing 4
-IAB20 - Travel
+20. IAB20 - Travel
 IAB20-1 - Adventure Travel
 IAB20-2 - Africa
 IAB20-3 - Air Travel
@@ -366,16 +366,16 @@ IAB20-24 - Spas
 IAB20-25 - Theme Parks
 IAB20-26 - Traveling with Kids
 IAB20-27 - United Kingdom
-IAB21 - Real Estate
+21. IAB21 - Real Estate
 IAB21-1 - Apartments
 IAB21-2 - Architects
 IAB21-3 - Buying / Selling Homes
-IAB22 - Shopping
+22. IAB22 - Shopping
 IAB22-1 - Contests & Freebies
 IAB22-2 - Couponing
 IAB22-3 - Comparison
 IAB22-4 - Engines
-IAB23 - Religion & Spirituality
+23. IAB23 - Religion & Spirituality
 IAB23-1 - Alternative Religions
 IAB23-2 - Atheism / Agnosticism
 IAB23-3 - Buddhism
@@ -386,8 +386,8 @@ IAB23-7 - Islam
 IAB23-8 - Judaism
 IAB23-9 - Latter-Day Saints
 IAB23-10 - Pagan / Wiccan
-IAB24 - Uncategorized
-IAB25 - Non-Standard Content
+24. IAB24 - Uncategorized
+25. IAB25 - Non-Standard Content
 IAB25-1 - Unmoderated UGC / Message Boards 1
 IAB25-2 - Extreme Graphic / Explicit Violence
 IAB25-3 - Adult Content 1
@@ -399,7 +399,7 @@ IAB25-WS1 - Content Server 4
 IAB25-WS2 - Streaming Media 4
 IAB25-WS3 - Trackers 4
 IAB25-WS4 - Cryptomining / Cryptojacking 4
-IAB26 - Illegal Content
+26. IAB26 - Illegal Content
 IAB26-1 - Illegal Content
 IAB26-2 - Warez
 IAB26-3 - Spyware / Malware / Malicious 1
