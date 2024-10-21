@@ -154,7 +154,7 @@ IAB8-16 - Vegan
 IAB8-17 - Vegetarian
 - IAB8-18 - Wine
 9. IAB9 - Hobbies & Interests
-IAB9-1 - Art / Technology
+- IAB9-1 - Art / Technology
 IAB9-2 - Arts & Crafts
 IAB9-3 - Beadwork
 IAB9-4 - Bird-Watching
@@ -186,9 +186,9 @@ IAB9-29 - Stamps & Coins
 IAB9-30 - Video & Computer Games
 IAB9-31 - Woodworking
 IAB9-WS1 - Gambling 4
-IAB9-WS2 - Weapons 4
+- IAB9-WS2 - Weapons 4
 10. IAB10 - Home & Garden
-IAB10-1 - Appliances
+- IAB10-1 - Appliances
 IAB10-2 - Entertaining
 IAB10-3 - Environmental Safety
 IAB10-4 - Gardening
@@ -196,13 +196,13 @@ IAB10-5 - Home Repair
 IAB10-6 - Home Theater
 IAB10-7 - Interior Decorating
 IAB10-8 - Landscaping
-IAB10-9 - Remodeling & Construction
+- IAB10-9 - Remodeling & Construction
 11. IAB11 - Law, Government, & Politics
-IAB11-1 - Immigration
-IAB11-2 - Legal Issues
-IAB11-3 - Government Resources 1
-IAB11-4 - Politics
-IAB11-5 - Commentary
+- IAB11-1 - Immigration
+- IAB11-2 - Legal Issues
+- IAB11-3 - Government Resources 1
+- IAB11-4 - Politics
+- IAB11-5 - Commentary
 12. IAB12 - News / Weather / Information 3
 13. IAB13 - Personal Finance
 IAB13-1 - Beginning Investing
@@ -226,7 +226,6 @@ IAB14-5 - Senior Living
 IAB14-6 - Teens
 IAB14-7 - Weddings
 IAB14-8 - Ethnic Specific
-IAB14-WS1 - Social Networking 4
 15. IAB15 - Science
 IAB15-1 - Astrology
 IAB15-2 - Biology
@@ -239,13 +238,13 @@ IAB15-8 - Geography
 IAB15-9 - Botany
 IAB15-10 - Weather
 16. IAB16 - Pets
-IAB16-1 - Aquariums
-IAB16-2 - Birds
-IAB16-3 - Cats
-IAB16-4 - Dogs
-IAB16-5 - Large Animals
-IAB16-6 - Reptiles
-IAB16-7 - Veterinary Medicine
+- IAB16-1 - Aquariums
+- IAB16-2 - Birds
+- IAB16-3 - Cats
+- IAB16-4 - Dogs
+- IAB16-5 - Large Animals
+- IAB16-6 - Reptiles
+- IAB16-7 - Veterinary Medicine
 17. IAB17 - Sports
 IAB17-1 - Auto Racing
 IAB17-2 - Baseball / Softball 1
@@ -291,12 +290,12 @@ IAB17-41 - Volleyball
 IAB17-43 - Waterski / Wakeboard
 IAB17-44 - World Football / Soccer 1
 18. IAB18 - Style & Fashion
-IAB18-1 - Beauty
-IAB18-2 - Body Art
-IAB18-3 - Fashion
-IAB18-4 - Jewelry
-IAB18-5 - Clothing
-IAB18-6 - Accessories
+- IAB18-1 - Beauty
+- IAB18-2 - Body Art
+- IAB18-3 - Fashion
+- IAB18-4 - Jewelry
+- IAB18-5 - Clothing
+- IAB18-6 - Accessories
 19. IAB19 - Technology & Computing
 IAB19-1 - 3-D Graphics
 IAB19-2 - Animation
@@ -334,10 +333,6 @@ IAB19-33 - Web Clip Art
 IAB19-34 - Web Design / HTML
 IAB19-35 - Web Search
 IAB19-36 - Windows
-IAB19-WS1 - Hacking / Cracking 4
-IAB19-WS2 - VPNs / Proxies & Filter Avoidance 4
-IAB19-WS3 - Language Translation 4
-IAB19-WS4 - File Sharing 4
 20. IAB20 - Travel
 IAB20-1 - Adventure Travel
 IAB20-2 - Africa
@@ -367,14 +362,14 @@ IAB20-25 - Theme Parks
 IAB20-26 - Traveling with Kids
 IAB20-27 - United Kingdom
 21. IAB21 - Real Estate
-IAB21-1 - Apartments
-IAB21-2 - Architects
-IAB21-3 - Buying / Selling Homes
+- IAB21-1 - Apartments
+- IAB21-2 - Architects
+- IAB21-3 - Buying / Selling Homes
 22. IAB22 - Shopping
-IAB22-1 - Contests & Freebies
-IAB22-2 - Couponing
-IAB22-3 - Comparison
-IAB22-4 - Engines
+- IAB22-1 - Contests & Freebies
+- IAB22-2 - Couponing
+- IAB22-3 - Comparison
+- IAB22-4 - Engines
 23. IAB23 - Religion & Spirituality
 IAB23-1 - Alternative Religions
 IAB23-2 - Atheism / Agnosticism
@@ -388,21 +383,16 @@ IAB23-9 - Latter-Day Saints
 IAB23-10 - Pagan / Wiccan
 24. IAB24 - Uncategorized
 25. IAB25 - Non-Standard Content
-IAB25-1 - Unmoderated UGC / Message Boards 1
-IAB25-2 - Extreme Graphic / Explicit Violence
-IAB25-3 - Adult Content 1
-IAB25-4 - Profane Content
-IAB25-5 - Hate Content
-IAB25-6 - Under Construction
-IAB25-7 - Incentivized
-IAB25-WS1 - Content Server 4
-IAB25-WS2 - Streaming Media 4
-IAB25-WS3 - Trackers 4
-IAB25-WS4 - Cryptomining / Cryptojacking 4
+- IAB25-1 - Unmoderated UGC / Message Boards 
+- IAB25-2 - Extreme Graphic / Explicit Violence
+- IAB25-3 - Adult Content 1
+- IAB25-4 - Profane Content
+- IAB25-5 - Hate Content
+- IAB25-6 - Under Construction
+- IAB25-7 - Incentivized
 26. IAB26 - Illegal Content
-IAB26-1 - Illegal Content
-IAB26-2 - Warez
-IAB26-3 - Spyware / Malware / Malicious 1
-IAB26-4 - Copyright Infringement
-IAB26-WS1 - Illegal Drugs & Paraphernalia 4
-IAB26-WS2 - Deceptive / Phishing 4
+- IAB26-1 - Illegal Content
+- IAB26-2 - Warez
+- IAB26-3 - Spyware / Malware / Malicious 
+- IAB26-4 - Copyright Infringement
+
