@@ -10,8 +10,8 @@ This project aims to classify images into bi-level categories, where each image 
 - IAB1-3 - Fine Art
 - IAB1-4 - Humor
 - IAB1-5 - Movies
-- IAB1-6 - Music & Audio 1
-- IAB1-7 - Television & Video 1
+- IAB1-6 - Music 
+- IAB1-7 - Television
 2. IAB2 - Automotive
 - IAB2-1 - Auto Parts
 - IAB2-2 - Auto Repair
@@ -70,10 +70,10 @@ This project aims to classify images into bi-level categories, where each image 
 - IAB5-6 - Distance Learning
 - IAB5-7 - English as a 2nd Language
 - IAB5-8 - Language Learning
-- IAB5-9 - College / Graduate School 1
+- IAB5-9 - Graduate School 
 - IAB5-10 - Homeschooling
 - IAB5-11 - Homework/Study Tips
-- IAB5-12 - K-6 Education 1
+- IAB5-12 - K-6 Education 
 - IAB5-13 - Private School
 - IAB5-14 - Special Education
 - IAB5-15 - Studying Business
@@ -88,114 +88,111 @@ This project aims to classify images into bi-level categories, where each image 
 - IAB6-8 - Special Needs Kids
 - IAB6-9 - Eldercare
 7. IAB7 - Health & Fitness
-- IAB7-1 - Exercise / Weight Loss 2
-IAB7-2 - ADD
-IAB7-3 - AIDS / HIV
-IAB7-4 - Allergies
-IAB7-5 - Alternative Medicine / Holistic Healing 2
-IAB7-6 - Arthritis
-IAB7-7 - Asthma
-IAB7-8 - Autism / PDD / Asperger’s Syndrome 1
-IAB7-9 - Bipolar Disorder
-IAB7-10 - Brain Tumor
-IAB7-11 - Cancer
-IAB7-12 - Cholesterol
-IAB7-13 - Chronic Fatigue Syndrome
-IAB7-14 - Chronic Pain
-IAB7-15 - Cold & Flu
-IAB7-16 - Deafness
-IAB7-17 - Dental Care
-IAB7-18 - Depression
-IAB7-19 - Dermatology
-IAB7-20 - Diabetes
-IAB7-21 - Epilepsy / Seizures 1
-IAB7-22 - GERD / Acid Reflux
-IAB7-23 - Headaches / Migraines / Fevers / Pain 1
-IAB7-24 - Heart Disease / Stroke 1
-IAB7-25 - Herbs for Health / Supplements / Vitamins 1
-IAB7-26 - Holistic Healing (see: IAB7-5) 2
-IAB7-27 - IBS / Crohn’s / Celiac Disease 1
-IAB7-28 - Incest / Abuse Support
-IAB7-29 - Incontinence
-IAB7-30 - Infertility
-IAB7-31 - Men’s Health
-IAB7-32 - Nutrition
-IAB7-33 - Orthopedics
-IAB7-34 - Panic / Anxiety Disorders
-IAB7-35 - Pediatrics
-IAB7-36 - Physical Therapy
-IAB7-37 - Psychology / Psychiatry / Therapy 1
-IAB7-38 - Senior Health
-IAB7-39 - Sexuality
-IAB7-40 - Sleep Disorders
-IAB7-41 - Smoking Cessation
-IAB7-42 - Substance Abuse
-IAB7-43 - Thyroid Disease / Endocrinology 1
-IAB7-44 - Weight Loss (see: IAB7-1) 2
-IAB7-45 - Women’s Health
-- IAB7-WS1 - Abortion 4
+- IAB7-1 - Exercise 
+- IAB7-2 - ADD
+- IAB7-3 - AIDS / HIV
+- IAB7-4 - Allergies
+- IAB7-5 - Alternative Medicine 
+- IAB7-6 - Arthritis
+- IAB7-7 - Asthma
+- IAB7-8 - Autism / PDD / Asperger’s Syndrome 1
+- IAB7-9 - Bipolar Disorder
+- IAB7-10 - Brain Tumor
+- IAB7-11 - Cancer
+- IAB7-12 - Cholesterol
+- IAB7-13 - Chronic Fatigue Syndrome
+- IAB7-14 - Chronic Pain
+- IAB7-15 - Cold & Flu
+- IAB7-16 - Deafness
+- IAB7-17 - Dental Care
+- IAB7-18 - Depression
+- IAB7-19 - Dermatology
+- IAB7-20 - Diabetes
+- IAB7-21 - Epilepsy
+- IAB7-22 - GERD / Acid Reflux
+- IAB7-23 - Headaches / Migraines 
+- IAB7-24 - Heart Disease 
+- IAB7-25 - Herbs for Health 
+- IAB7-26 - Holistic Healing
+- IAB7-27 - IBS / Crohn’s 
+- IAB7-28 - Incest / Abuse Support
+- IAB7-29 - Incontinence
+- IAB7-30 - Infertility
+- IAB7-31 - Men’s Health
+- IAB7-32 - Nutrition
+- IAB7-33 - Orthopedics
+- IAB7-34 - Panic / Anxiety Disorders
+- IAB7-35 - Pediatrics
+- IAB7-36 - Physical Therapy
+- IAB7-37 - Psychology / Psychiatry 
+- IAB7-38 - Senior Health
+- IAB7-39 - Sexuality
+- IAB7-40 - Sleep Disorders
+- IAB7-41 - Smoking Cessation
+- IAB7-42 - Substance Abuse
+- IAB7-43 - Thyroid Disease
+- IAB7-44 - Weight Loss 
+- IAB7-45 - Women’s Health
 8. IAB8 - Food & Drink
 - IAB8-1 - American Cuisine
-IAB8-2 - Barbecues & Grilling
-IAB8-3 - Cajun / Creole
-IAB8-4 - Chinese Cuisine
-IAB8-5 - Cocktails / Beer
-IAB8-6 - Coffee / Tea
-IAB8-7 - Cuisine-Specific
-IAB8-8 - Desserts & Baking
-IAB8-9 - Dining Out
-IAB8-10 - Food Allergies
-IAB8-11 - French Cuisine
-IAB8-12 - Health / Low-Fat Cooking
-IAB8-13 - Italian Cuisine
-IAB8-14 - Japanese Cuisine
-IAB8-15 - Mexican Cuisine
-IAB8-16 - Vegan
-IAB8-17 - Vegetarian
+- IAB8-2 - Barbecues & Grilling
+- IAB8-3 - Cajun / Creole
+- IAB8-4 - Chinese Cuisine
+- IAB8-5 - Cocktails / Beer
+- IAB8-6 - Coffee / Tea
+- IAB8-7 - Cuisine-Specific
+- IAB8-8 - Desserts & Baking
+- IAB8-9 - Dining Out
+- IAB8-10 - Food Allergies
+- IAB8-11 - French Cuisine
+- IAB8-12 - Health / Low-Fat Cooking
+- IAB8-13 - Italian Cuisine
+- IAB8-14 - Japanese Cuisine
+- IAB8-15 - Mexican Cuisine
+- IAB8-16 - Vegan
+- IAB8-17 - Vegetarian
 - IAB8-18 - Wine
 9. IAB9 - Hobbies & Interests
 - IAB9-1 - Art / Technology
-IAB9-2 - Arts & Crafts
-IAB9-3 - Beadwork
-IAB9-4 - Bird-Watching
-IAB9-5 - Board Games / Puzzles
-IAB9-6 - Candle & Soap Making
-IAB9-7 - Card Games
-IAB9-8 - Chess
-IAB9-9 - Cigars / Vaping / Tobacco & Accessories 1
-IAB9-10 - Collecting
-IAB9-11 - Comic Books / Anime / Manga 1
-IAB9-12 - Drawing / Sketching
-IAB9-13 - Freelance Writing / Getting Published 2
-IAB9-14 - Genealogy
-IAB9-15 - Getting Published (see: IAB9-13) 2
-IAB9-16 - Guitar / Keyboard / Drums 1
-IAB9-17 - Home Recording
-IAB9-18 - Investors / Inventors / Patents / Copyright 1
-IAB9-19 - Jewelry Making
-IAB9-20 - Magic & Illusion
-IAB9-21 - Needlework
-IAB9-22 - Painting
-IAB9-23 - Photography
-IAB9-24 - Radio
-IAB9-25 - Roleplaying Games
-IAB9-26 - Sci-Fi & Fantasy
-IAB9-27 - Scrapbooking
-IAB9-28 - Screenwriting
-IAB9-29 - Stamps & Coins
-IAB9-30 - Video & Computer Games
-IAB9-31 - Woodworking
-IAB9-WS1 - Gambling 4
-- IAB9-WS2 - Weapons 4
+- IAB9-2 - Arts & Crafts
+- IAB9-3 - Beadwork
+- IAB9-4 - Bird-Watching
+- IAB9-5 - Board Games / Puzzles
+- IAB9-6 - Candle & Soap Making
+- IAB9-7 - Card Games
+- IAB9-8 - Chess
+- IAB9-9 - Cigars 
+- IAB9-10 - Collecting
+- IAB9-11 - Comic Books 
+- IAB9-12 - Drawing / Sketching
+- IAB9-13 - Freelance Writing 
+- IAB9-14 - Genealogy
+- IAB9-15 - Getting Published 
+- IAB9-16 - Guitar 
+- IAB9-17 - Home Recording
+- IAB9-18 - Investors & Patents 
+- IAB9-19 - Jewelry Making
+- IAB9-20 - Magic & Illusion
+- IAB9-21 - Needlework
+- IAB9-22 - Painting
+- IAB9-23 - Photography
+- IAB9-24 - Radio
+- IAB9-25 - Roleplaying Games
+- IAB9-26 - Sci-Fi & Fantasy
+- IAB9-27 - Scrapbooking
+- IAB9-28 - Screenwriting
+- IAB9-29 - Stamps & Coins
+- IAB9-30 - Video & Computer Games
+- IAB9-31 - Woodworking
 10. IAB10 - Home & Garden
 - IAB10-1 - Appliances
-IAB10-2 - Entertaining
-IAB10-3 - Environmental Safety
-IAB10-4 - Gardening
-IAB10-5 - Home Repair
-IAB10-6 - Home Theater
-IAB10-7 - Interior Decorating
-IAB10-8 - Landscaping
+- IAB10-2 - Entertaining
+- IAB10-3 - Environmental Safety
+- IAB10-4 - Gardening
+- IAB10-5 - Home Repair
+- IAB10-6 - Home Theater
+- IAB10-7 - Interior Decorating
+- IAB10-8 - Landscaping
 - IAB10-9 - Remodeling & Construction
 11. IAB11 - Law, Government, & Politics
 - IAB11-1 - Immigration
@@ -203,39 +200,42 @@ IAB10-8 - Landscaping
 - IAB11-3 - Government Resources 1
 - IAB11-4 - Politics
 - IAB11-5 - Commentary
-12. IAB12 - News / Weather / Information 3
+12. IAB12 - News
+- IAB12-1 - International News
+- IAB12-2 - National News
+- IAB12-3 - Local News
 13. IAB13 - Personal Finance
 - IAB13-1 - Beginning Investing
-IAB13-2 - Credit / Debit & Loans
-IAB13-3 - Financial News
-IAB13-4 - Financial Planning
-IAB13-5 - Hedge Fund
-IAB13-6 - Insurance
-IAB13-7 - Investing
-IAB13-8 - Mutual Funds / ETFs 1
-IAB13-9 - Options
-IAB13-10 - Retirement Planning
-IAB13-11 - Stocks
-- IAB13-12 - Tax Planning / Accounting 1
+- IAB13-2 - Credit / Debit & Loans
+- IAB13-3 - Financial News
+- IAB13-4 - Financial Planning
+- IAB13-5 - Hedge Fund
+- IAB13-6 - Insurance
+- IAB13-7 - Investing
+- IAB13-8 - Mutual Funds 
+- IAB13-9 - Options
+- IAB13-10 - Retirement Planning
+- IAB13-11 - Stocks
+- IAB13-12 - Tax Planning
 14. IAB14 - Society
-- IAB14-1 - Dating / Personals 1
-IAB14-2 - Divorce Support
-IAB14-3 - LGBTQ+ 1
-IAB14-4 - Marriage
-IAB14-5 - Senior Living
-IAB14-6 - Teens
-IAB14-7 - Weddings
+- IAB14-1 - Dating 
+- IAB14-2 - Divorce Support
+- IAB14-3 - Gay Life
+- IAB14-4 - Marriage
+- IAB14-5 - Senior Living
+- IAB14-6 - Teens
+- IAB14-7 - Weddings
 - IAB14-8 - Ethnic Specific
 15. IAB15 - Science
 - IAB15-1 - Astrology
-IAB15-2 - Biology
-IAB15-3 - Chemistry
-IAB15-4 - Geology
-IAB15-5 - Paranormal Phenomena
-IAB15-6 - Physics
-IAB15-7 - Space / Astronomy
-IAB15-8 - Geography
-IAB15-9 - Botany
+- IAB15-2 - Biology
+- IAB15-3 - Chemistry
+- IAB15-4 - Geology
+- IAB15-5 - Paranormal Phenomena
+- IAB15-6 - Physics
+- IAB15-7 - Space / Astronomy
+- IAB15-8 - Geography
+- IAB15-9 - Botany
 - IAB15-10 - Weather
 16. IAB16 - Pets
 - IAB16-1 - Aquariums
@@ -247,7 +247,7 @@ IAB15-9 - Botany
 - IAB16-7 - Veterinary Medicine
 17. IAB17 - Sports
 - IAB17-1 - Auto Racing
-IAB17-2 - Baseball / Softball 1
+IAB17-2 - Baseball 
 IAB17-3 - Bicycling
 IAB17-4 - Bodybuilding
 IAB17-5 - Boxing
