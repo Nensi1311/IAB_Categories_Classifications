@@ -247,47 +247,47 @@ This project aims to classify images into bi-level categories, where each image 
 - IAB16-7 - Veterinary Medicine
 17. IAB17 - Sports
 - IAB17-1 - Auto Racing
-IAB17-2 - Baseball 
-IAB17-3 - Bicycling
-IAB17-4 - Bodybuilding
-IAB17-5 - Boxing
-IAB17-6 - Canoeing / Kayaking
-IAB17-7 - Cheerleading
-IAB17-8 - Climbing
-IAB17-9 - Cricket
-IAB17-10 - Figure Skating
-IAB17-11 - Fly Fishing
-IAB17-12 - American Football 1
-IAB17-13 - Freshwater Fishing
-IAB17-14 - Game & Fish
-IAB17-15 - Golf
-IAB17-16 - Horse Racing
-IAB17-17 - Horses
-IAB17-18 - Hunting / Shooting
-IAB17-19 - Inline Skating
-IAB17-20 - Martial Arts
-IAB17-21 - Mountain Biking
-IAB17-22 - NASCAR Racing
-IAB17-23 - Olympics
-IAB17-24 - Paintball
-IAB17-25 - Power & Motorcycles
-IAB17-26 - Basketball
-IAB17-27 - Ice Hockey
-IAB17-28 - Rodeo
-IAB17-29 - Rugby
-IAB17-30 - Running / Jogging
-IAB17-31 - Sailing / Boating 1
-IAB17-32 - Saltwater Fishing
-IAB17-33 - Scuba Diving
-IAB17-34 - Skateboarding
-IAB17-35 - Skiing
-IAB17-36 - Snowboarding
-IAB17-37 - Surfing / Body-Boarding
-IAB17-38 - Swimming
-IAB17-39 - Table Tennis / Ping-Pong
-IAB17-40 - Tennis
-IAB17-41 - Volleyball
-IAB17-43 - Waterski / Wakeboard
+- IAB17-2 - Baseball 
+- IAB17-3 - Bicycling
+- IAB17-4 - Bodybuilding
+- IAB17-5 - Boxing
+- IAB17-6 - Canoeing / Kayaking
+- IAB17-7 - Cheerleading
+- IAB17-8 - Climbing
+- IAB17-9 - Cricket
+- IAB17-10 - Figure Skating
+- IAB17-11 - Fly Fishing
+- IAB17-12 - American Football 1
+- IAB17-13 - Freshwater Fishing
+- IAB17-14 - Game & Fish
+- IAB17-15 - Golf
+- IAB17-16 - Horse Racing
+- IAB17-17 - Horses
+- IAB17-18 - Hunting / Shooting
+- IAB17-19 - Inline Skating
+- IAB17-20 - Martial Arts
+- IAB17-21 - Mountain Biking
+- IAB17-22 - NASCAR Racing
+- IAB17-23 - Olympics
+- IAB17-24 - Paintball
+- IAB17-25 - Power & Motorcycles
+- IAB17-26 - Basketball
+- IAB17-27 - Ice Hockey
+- IAB17-28 - Rodeo
+- IAB17-29 - Rugby
+- IAB17-30 - Running / Jogging
+- IAB17-31 - Sailing / Boating 1
+- IAB17-32 - Saltwater Fishing
+- IAB17-33 - Scuba Diving
+- IAB17-34 - Skateboarding
+- IAB17-35 - Skiing
+- IAB17-36 - Snowboarding
+- IAB17-37 - Surfing / Body-Boarding
+- IAB17-38 - Swimming
+- IAB17-39 - Table Tennis / Ping-Pong
+- IAB17-40 - Tennis
+- IAB17-41 - Volleyball
+- IAB17-43 - Waterski / Wakeboard
 - IAB17-44 - World Football / Soccer 1
 18. IAB18 - Style & Fashion
 - IAB18-1 - Beauty
@@ -298,40 +298,40 @@ IAB17-43 - Waterski / Wakeboard
 - IAB18-6 - Accessories
 19. IAB19 - Technology & Computing
 - IAB19-1 - 3-D Graphics
-IAB19-2 - Animation
-IAB19-3 - Antivirus Software
-IAB19-4 - C / C++
-IAB19-5 - Cameras & Camcorders
-IAB19-6 - Cell Phones
-IAB19-7 - Computer Certification
-IAB19-8 - Computer Networking
-IAB19-9 - Computer Peripherals
-IAB19-10 - Computer Reviews
-IAB19-11 - Data Centers
-IAB19-12 - Databases
-IAB19-13 - Desktop Publishing
-IAB19-14 - Desktop Video
-IAB19-15 - Email / Chat / Messaging 2
-IAB19-16 - Graphics Software
-IAB19-17 - Home Video / DVD
-IAB19-18 - Internet Technology
-IAB19-19 - Java
-IAB19-20 - JavaScript
-IAB19-21 - Mac Support
-IAB19-22 - MP3 / MIDI
-IAB19-23 - Net Conferencing
-IAB19-24 - Net for Beginners
-IAB19-25 - Network Security
-IAB19-26 - Palmtops / PDAs / Tablets 1
-IAB19-27 - PC Support
-IAB19-28 - Portable
-IAB19-29 - Entertainment / Virtual & Augmented Reality 1
-IAB19-30 - Shareware / Freeware / Open Source 1
-IAB19-31 - Unix / Linux 1
-IAB19-32 - Visual Basic
-IAB19-33 - Web Clip Art
-IAB19-34 - Web Design / HTML
-IAB19-35 - Web Search
+- IAB19-2 - Animation
+- IAB19-3 - Antivirus Software
+- IAB19-4 - C / C++
+- IAB19-5 - Cameras & Camcorders
+- IAB19-6 - Cell Phones
+- IAB19-7 - Computer Certification
+- IAB19-8 - Computer Networking
+- IAB19-9 - Computer Peripherals
+- IAB19-10 - Computer Reviews
+- IAB19-11 - Data Centers
+- IAB19-12 - Databases
+- IAB19-13 - Desktop Publishing
+- IAB19-14 - Desktop Video
+- IAB19-15 - Email / Chat / Messaging 2
+- IAB19-16 - Graphics Software
+- IAB19-17 - Home Video / DVD
+- IAB19-18 - Internet Technology
+- IAB19-19 - Java
+- IAB19-20 - JavaScript
+- IAB19-21 - Mac Support
+- IAB19-22 - MP3 / MIDI
+- IAB19-23 - Net Conferencing
+- IAB19-24 - Net for Beginners
+- IAB19-25 - Network Security
+- IAB19-26 - Palmtops / PDAs / Tablets 1
+- IAB19-27 - PC Support
+- IAB19-28 - Portable
+- IAB19-29 - Entertainment / Virtual & Augmented Reality 1
+- IAB19-30 - Shareware / Freeware / Open Source 1
+- IAB19-31 - Unix / Linux 1
+- IAB19-32 - Visual Basic
+- IAB19-33 - Web Clip Art
+- IAB19-34 - Web Design / HTML
+- IAB19-35 - Web Search
 - IAB19-36 - Windows
 20. IAB20 - Travel
 - IAB20-1 - Adventure Travel
