@@ -335,31 +335,31 @@ This project aims to classify images into bi-level categories, where each image 
 - IAB19-36 - Windows
 20. IAB20 - Travel
 - IAB20-1 - Adventure Travel
-IAB20-2 - Africa
-IAB20-3 - Air Travel
-IAB20-4 - Australia & New Zealand
-IAB20-5 - Bed & Breakfast
-IAB20-6 - Budget Travel
-IAB20-7 - Business Travel
-IAB20-8 - By US Locale
-IAB20-9 - Camping
-IAB20-10 - Canada
-IAB20-11 - Caribbean
-IAB20-12 - Cruises
-IAB20-13 - Eastern Europe
-IAB20-14 - Europe
-IAB20-15 - France
-IAB20-16 - Greece
-IAB20-17 - Honeymoons / Getaways
-IAB20-18 - Hotels
-IAB20-19 - Italy
-IAB20-20 - Japan / China 2
-IAB20-21 - Mexico & Central America
-IAB20-22 - National Parks
-IAB20-23 - South America
-IAB20-24 - Spas
-IAB20-25 - Theme Parks
-IAB20-26 - Traveling with Kids
+- IAB20-2 - Africa
+- IAB20-3 - Air Travel
+- IAB20-4 - Australia & New Zealand
+- IAB20-5 - Bed & Breakfast
+- IAB20-6 - Budget Travel
+- IAB20-7 - Business Travel
+- IAB20-8 - By US Locale
+- IAB20-9 - Camping
+- IAB20-10 - Canada
+- IAB20-11 - Caribbean
+- IAB20-12 - Cruises
+- IAB20-13 - Eastern Europe
+- IAB20-14 - Europe
+- IAB20-15 - France
+- IAB20-16 - Greece
+- IAB20-17 - Honeymoons / Getaways
+- IAB20-18 - Hotels
+- IAB20-19 - Italy
+- IAB20-20 - Japan / China 2
+- IAB20-21 - Mexico & Central America
+- IAB20-22 - National Parks
+- IAB20-23 - South America
+- IAB20-24 - Spas
+- IAB20-25 - Theme Parks
+- IAB20-26 - Traveling with Kids
 - IAB20-27 - United Kingdom
 21. IAB21 - Real Estate
 - IAB21-1 - Apartments
@@ -372,14 +372,14 @@ IAB20-26 - Traveling with Kids
 - IAB22-4 - Engines
 23. IAB23 - Religion & Spirituality
 - IAB23-1 - Alternative Religions
-IAB23-2 - Atheism / Agnosticism
-IAB23-3 - Buddhism
-IAB23-4 - Catholicism
-IAB23-5 - Christianity
-IAB23-6 - Hinduism
-IAB23-7 - Islam
-IAB23-8 - Judaism
-IAB23-9 - Latter-Day Saints
+- IAB23-2 - Atheism / Agnosticism
+- IAB23-3 - Buddhism
+- IAB23-4 - Catholicism
+- IAB23-5 - Christianity
+- IAB23-6 - Hinduism
+- IAB23-7 - Islam
+- IAB23-8 - Judaism
+- IAB23-9 - Latter-Day Saints
 - IAB23-10 - Pagan / Wiccan
 24. IAB24 - Uncategorized
 25. IAB25 - Non-Standard Content
@@ -395,4 +395,3 @@ IAB23-9 - Latter-Day Saints
 - IAB26-2 - Warez
 - IAB26-3 - Spyware / Malware / Malicious 
 - IAB26-4 - Copyright Infringement
-
